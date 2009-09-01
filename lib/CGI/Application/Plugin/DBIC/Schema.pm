@@ -17,7 +17,7 @@ require Exporter;
   rs
 );
 
-$VERSION = '0.1';
+$VERSION = '0.2';
 
 #
 # This name will be used for 'default' schema (i.e., when no name is supplied.)

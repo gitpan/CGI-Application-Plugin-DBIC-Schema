@@ -8,4 +8,7 @@ lib/CGI/Application/Plugin/DBIC/Schema.pm
 t/01_basic.t
 t/99_pod.t
 t/TestApp.pm
+t/DBICT.pm
+t/DBICT/Result/Test.pm
+t/sql/dbic_test.ddl
 
